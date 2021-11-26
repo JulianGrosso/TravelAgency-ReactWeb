@@ -43,11 +43,11 @@ export const homeObjThree = {
 	headline: "Everything you need for your trip",
 	description:
 		"Access now to our exclusive application to get all the advantages.",
-	buttonLabel: "Start Now",
+	buttonLabel: "Sign Up",
 	imgStart: false,
 	img: require("../assets/images/svg-05.svg").default,
 	alt: "description",
 	dark: false,
 	primary: false,
-	linkSection: "home",
+	linkSection: "",
 };

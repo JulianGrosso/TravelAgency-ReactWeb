@@ -23,7 +23,7 @@ const HeroSection = () => {
 				<HeroP>What are you waiting for?</HeroP>
 				<HeroBtnWrapper>
 					<Button
-						to="signup"
+						to="about"
 						onMouseEnter={onHover}
 						onMouseLeave={onHover}
 						primary="true"
