@@ -1,4 +1,4 @@
-<a href="https://travel-agency-web-react02-jg.netlify.app/"><img src="./src/assets/images/TRVL_App-Showcase_02_Browser_LOW.jpg.png" width="auto" height="auto"></a>
+<a href="https://travel-agency-web-react02-jg.netlify.app/"><img src="./github_assets/TRVL_App-Showcase_02_Browser_LOW.jpg.png" width="auto" height="auto"></a>
 
 # Travel Agency Web with React
 
@@ -16,7 +16,7 @@
 - Mobile ready.
 - Sign In page.
 
-<a href="https://travel-agency-web-react02-jg.netlify.app/"><img src="./src/assets/images/TRVL_App-Showcase_04_Browser-x3_LOW.jpg.png" width="auto" height="auto"></a>
+<a href="https://travel-agency-web-react02-jg.netlify.app/"><img src="./github_assets/TRVL_App-Showcase_04_Browser-x3_LOW.jpg.png" width="auto" height="auto"></a>
 ___
 
 ## Getting Started with Create React App
